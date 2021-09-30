@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.cnt{
+    margin-top: 5rem;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px;
+    width: min-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2rem;
+    background-image: linear-gradient(to top right, white, azure);
+    border-radius: 0 200px 200px 200px;
+}
+h1{
+    color: green;
+}
+.btn{
+    border-radius: 50pc;
+    margin-top: 2rem;
+}
+.btn:hover{
+    background-color: green;
+}
